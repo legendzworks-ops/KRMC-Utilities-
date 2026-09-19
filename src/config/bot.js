@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "Watching Khaos Reapers", // required by Discord API, not shown in the client
         state: "Khaos Reapers",     // this is what people actually see
-        type: 3,               // Watching
+        type: 4,               // Custom
       },
     ],
   },
